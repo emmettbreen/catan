@@ -1,0 +1,18 @@
+(** @canonical Catan.Board *)
+module Board = Catan__Board
+
+
+(** @canonical Catan.Game *)
+module Game = Catan__Game
+
+
+(** @canonical Catan.Input *)
+module Input = Catan__Input
+
+
+(** @canonical Catan.Player *)
+module Player = Catan__Player
+
+
+(** @canonical Catan.Printers *)
+module Printers = Catan__Printers

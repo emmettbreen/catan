@@ -1,0 +1,6 @@
+description = ""
+requires = "ANSITerminal"
+archive(byte) = "catan.cma"
+archive(native) = "catan.cmxa"
+plugin(byte) = "catan.cma"
+plugin(native) = "catan.cmxs"

@@ -1,0 +1,236 @@
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Runner: processes
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Chooser: simple
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration suite_name = "test suite for Catan"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration cache_filename = "/Users/Emmett/Desktop/catan/_build/oUnit-$(suite_name).cache"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration run_gc_full_major = "true"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration display = "true"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration results_style_1_X = "false"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration testdata_dir = "none"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration health_check_interval = "1."
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration verbose = "false"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration chooser = "simple"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration output_html_dir = "none"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration processes_kill_period = "5."
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration runner = "processes"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration shards = "2"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration processes_grace_period = "5."
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration log_encoding = "utf-8"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration output_junit_file = "none"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration ci = "false"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Configuration output_file = "/Users/Emmett/Desktop/catan/_build/oUnit-$(suite_name)-$(shard_id).log"
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Using 2 workers maximum.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Starting worker number Emmetts-MacBook-Air.local#01.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Worker Emmetts-MacBook-Air.local#01 started.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Starting worker number Emmetts-MacBook-Air.local#02.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Worker Emmetts-MacBook-Air.local#02 started.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:1:Test get player resource for Wool, test suite for Catan:0:Test get player resource for Brick.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:0:Test get player resource for Brick.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:1:Test get player resource for Wool, test suite for Catan:0:Test get player resource for Brick.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:0:Test get player resource for Brick is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:1:Test get player resource for Wool.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:1:Test get player resource for Wool, test suite for Catan:0:Test get player resource for Brick.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:0:Test get player resource for Brick.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:1:Test get player resource for Wool is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:1:Test get player resource for Wool, test suite for Catan:0:Test get player resource for Brick.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:1:Test get player resource for Wool.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:2:Test add no resources to a player's resources, test suite for Catan:1:Test get player resource for Wool.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:3:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources, test suite for Catan:2:Test add no resources to a player's resources.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:2:Test add no resources to a player's resources.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:3:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources, test suite for Catan:2:Test add no resources to a player's resources.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:3:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:3:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources, test suite for Catan:2:Test add no resources to a player's resources.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:2:Test add no resources to a player's resources is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:3:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:3:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources, test suite for Catan:2:Test add no resources to a player's resources.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:2:Test add no resources to a player's resources.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:3:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:3:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources, test suite for Catan:2:Test add no resources to a player's resources.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:5:Test increment victory points by 3 for a player, test suite for Catan:4:Test getting victory points from a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:4:Test getting victory points from a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:5:Test increment victory points by 3 for a player, test suite for Catan:4:Test getting victory points from a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:5:Test increment victory points by 3 for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:5:Test increment victory points by 3 for a player, test suite for Catan:4:Test getting victory points from a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:4:Test getting victory points from a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:5:Test increment victory points by 3 for a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:5:Test increment victory points by 3 for a player, test suite for Catan:4:Test getting victory points from a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:4:Test getting victory points from a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:5:Test increment victory points by 3 for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:5:Test increment victory points by 3 for a player, test suite for Catan:4:Test getting victory points from a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:7:Test get a player's id, test suite for Catan:6:Test decrement victory points by 3 for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:6:Test decrement victory points by 3 for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:7:Test get a player's id, test suite for Catan:6:Test decrement victory points by 3 for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:7:Test get a player's id.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:7:Test get a player's id, test suite for Catan:6:Test decrement victory points by 3 for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:6:Test decrement victory points by 3 for a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:7:Test get a player's id, test suite for Catan:6:Test decrement victory points by 3 for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:6:Test decrement victory points by 3 for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:7:Test get a player's id is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:7:Test get a player's id, test suite for Catan:6:Test decrement victory points by 3 for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:8:Test failing to trade Wool for Ore for a player, test suite for Catan:7:Test get a player's id.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:7:Test get a player's id.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:8:Test failing to trade Wool for Ore for a player, test suite for Catan:7:Test get a player's id.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:8:Test failing to trade Wool for Ore for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:9:Test trade Wool for Ore for a player, test suite for Catan:8:Test failing to trade Wool for Ore for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:9:Test trade Wool for Ore for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:9:Test trade Wool for Ore for a player, test suite for Catan:8:Test failing to trade Wool for Ore for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:8:Test failing to trade Wool for Ore for a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:9:Test trade Wool for Ore for a player, test suite for Catan:8:Test failing to trade Wool for Ore for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:8:Test failing to trade Wool for Ore for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:9:Test trade Wool for Ore for a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:9:Test trade Wool for Ore for a player, test suite for Catan:8:Test failing to trade Wool for Ore for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:9:Test trade Wool for Ore for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:10:player has settlement on node 0, test suite for Catan:9:Test trade Wool for Ore for a player.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:10:player has settlement on node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:11:player has settlement on node 18, test suite for Catan:10:player has settlement on node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:11:player has settlement on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:11:player has settlement on node 18, test suite for Catan:10:player has settlement on node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:10:player has settlement on node 0 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:11:player has settlement on node 18, test suite for Catan:10:player has settlement on node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:10:player has settlement on node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:11:player has settlement on node 18 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:11:player has settlement on node 18, test suite for Catan:10:player has settlement on node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:11:player has settlement on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:12:player has city on node 18, test suite for Catan:11:player has settlement on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:13:player trying to rebuy settlement at 0 should fail, test suite for Catan:12:player has city on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:12:player has city on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:13:player trying to rebuy settlement at 0 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:13:player trying to rebuy settlement at 0 should fail, test suite for Catan:12:player has city on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:12:player has city on node 18 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:13:player trying to rebuy settlement at 0 should fail is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:13:player trying to rebuy settlement at 0 should fail, test suite for Catan:12:player has city on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:12:player has city on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:13:player trying to rebuy settlement at 0 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:13:player trying to rebuy settlement at 0 should fail, test suite for Catan:12:player has city on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:15:player has road attatched to city on node 18, test suite for Catan:14:player trying to buy city at 14 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:14:player trying to buy city at 14 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:15:player has road attatched to city on node 18, test suite for Catan:14:player trying to buy city at 14 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:15:player has road attatched to city on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:15:player has road attatched to city on node 18, test suite for Catan:14:player trying to buy city at 14 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:15:player has road attatched to city on node 18 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:15:player has road attatched to city on node 18, test suite for Catan:14:player trying to buy city at 14 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:14:player trying to buy city at 14 should fail is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:15:player has road attatched to city on node 18.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:15:player has road attatched to city on node 18, test suite for Catan:14:player trying to buy city at 14 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:14:player trying to buy city at 14 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:16:player trying to buy road between 20 and 21 should fail, test suite for Catan:14:player trying to buy city at 14 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:17:no one owns anything should return empy list, test suite for Catan:16:player trying to buy road between 20 and 21 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:16:player trying to buy road between 20 and 21 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:17:no one owns anything should return empy list, test suite for Catan:16:player trying to buy road between 20 and 21 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:17:no one owns anything should return empy list.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:17:no one owns anything should return empy list, test suite for Catan:16:player trying to buy road between 20 and 21 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:16:player trying to buy road between 20 and 21 should fail is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:17:no one owns anything should return empy list is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:17:no one owns anything should return empy list, test suite for Catan:16:player trying to buy road between 20 and 21 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:17:no one owns anything should return empy list.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:17:no one owns anything should return empy list, test suite for Catan:16:player trying to buy road between 20 and 21 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:16:player trying to buy road between 20 and 21 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:18:player has settlement at node 0, is on hex 0, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get one resource of type Brick when roll number of hex 0 is rolled, test suite for Catan:16:player trying to buy road between 20 and 21 should fail.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:19:player has city at node 18, is on hex 3, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get two resources of type Grain when roll number of hex 3 is rolled, test suite for Catan:18:player has settlement at node 0, is on hex 0, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get one resource of type Brick when roll number of hex 0 is rolled.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:18:player has settlement at node 0, is on hex 0, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I:     should get one resource of type Brick when roll number of hex 0 is rolled.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:19:player has city at node 18, is on hex 3, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I:     should get two resources of type Grain when roll number of hex 3 is rolled.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:19:player has city at node 18, is on hex 3, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get two resources of type Grain when roll number of hex 3 is rolled, test suite for Catan:18:player has settlement at node 0, is on hex 0, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get one resource of type Brick when roll number of hex 0 is rolled.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:18:player has settlement at node 0, is on hex 0, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I:     should get one resource of type Brick when roll number of hex 0 is rolled is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:19:player has city at node 18, is on hex 3, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I:     should get two resources of type Grain when roll number of hex 3 is rolled is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:19:player has city at node 18, is on hex 3, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get two resources of type Grain when roll number of hex 3 is rolled, test suite for Catan:18:player has settlement at node 0, is on hex 0, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get one resource of type Brick when roll number of hex 0 is rolled.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:18:player has settlement at node 0, is on hex 0, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I:     should get one resource of type Brick when roll number of hex 0 is rolled.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:19:player has city at node 18, is on hex 3, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I:     should get two resources of type Grain when roll number of hex 3 is rolled.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:19:player has city at node 18, is on hex 3, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get two resources of type Grain when roll number of hex 3 is rolled, test suite for Catan:18:player has settlement at node 0, is on hex 0, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get one resource of type Brick when roll number of hex 0 is rolled.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:21:Test update game with a new board, test suite for Catan:20:player has
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:       port ThreeToOne since they own node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:20:player has
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I:       port ThreeToOne since they own node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:21:Test update game with a new board.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:21:Test update game with a new board, test suite for Catan:20:player has
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:       port ThreeToOne since they own node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:20:player has
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I:       port ThreeToOne since they own node 0 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:21:Test update game with a new board is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:21:Test update game with a new board, test suite for Catan:20:player has
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:       port ThreeToOne since they own node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:20:player has
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I:       port ThreeToOne since they own node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:21:Test update game with a new board.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:21:Test update game with a new board, test suite for Catan:20:player has
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:       port ThreeToOne since they own node 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:23:Test update game with the same list of players, test suite for Catan:22:Test update game with the same board.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:22:Test update game with the same board.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Start test test suite for Catan:23:Test update game with the same list of players.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:23:Test update game with the same list of players, test suite for Catan:22:Test update game with the same board.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:22:Test update game with the same board is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:23:Test update game with the same list of players, test suite for Catan:22:Test update game with the same board.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:22:Test update game with the same board.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: Test test suite for Catan:23:Test update game with the same list of players is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:23:Test update game with the same list of players, test suite for Catan:22:Test update game with the same board.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#01 I: End test test suite for Catan:23:Test update game with the same list of players.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Still 2 tests running : test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities, test suite for Catan:23:Test update game with the same list of players.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 2 tests running: test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities, test suite for Catan:23:Test update game with the same list of players.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Start test test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Still 1 tests running : test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 1 tests running: test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: Test test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Still 1 tests running : test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 1 tests running: test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#02 I: End test test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Still 1 tests running : test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 1 tests running: test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: 0 tests running: .
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Worker Emmetts-MacBook-Air.local#01 has ended.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Worker Emmetts-MacBook-Air.local#02 has ended.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Used 2 worker during test execution.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Run 12 tests with shard Emmetts-MacBook-Air.local#01.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Run 13 tests with shard Emmetts-MacBook-Air.local#02.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Check health of shard Emmetts-MacBook-Air.local#01, 4 times.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Check health of shard Emmetts-MacBook-Air.local#02, 1 times.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: ==============
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Summary:
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:24:Test city/settlement vps of board with no settlement and no cities is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:23:Test update game with the same list of players is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:22:Test update game with the same board is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:21:Test update game with a new board is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:20:player has
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:       port ThreeToOne since they own node 0 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:19:player has city at node 18, is on hex 3, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get two resources of type Grain when roll number of hex 3 is rolled is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:18:player has settlement at node 0, is on hex 0, 
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I:     should get one resource of type Brick when roll number of hex 0 is rolled is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:16:player trying to buy road between 20 and 21 should fail is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:17:no one owns anything should return empy list is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:14:player trying to buy city at 14 should fail is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:15:player has road attatched to city on node 18 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:13:player trying to rebuy settlement at 0 should fail is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:12:player has city on node 18 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:11:player has settlement on node 18 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:10:player has settlement on node 0 is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:9:Test trade Wool for Ore for a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:8:Test failing to trade Wool for Ore for a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:7:Test get a player's id is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:6:Test decrement victory points by 3 for a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:5:Test increment victory points by 3 for a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:4:Test getting victory points from a player is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:3:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:2:Test add no resources to a player's resources is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:1:Test get player resource for Wool is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Test test suite for Catan:0:Test get player resource for Brick is successful.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Ran: 25 tests in: 0.13 seconds.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Cases: 25.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Tried: 25.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Errors: 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Failures: 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Skip: 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Todo: 0.
+2021-12-18T06:53:41+00:00 Emmetts-MacBook-Air.local#00 I: Timeout: 0.

@@ -1,0 +1,27 @@
+(lang dune 2.9)
+(name Catan)
+(library
+ (name Catan)
+ (kind normal)
+ (archives (byte catan.cma) (native catan.cmxa))
+ (plugins (byte catan.cma) (native catan.cmxs))
+ (native_archives catan.a)
+ (requires ANSITerminal)
+ (main_module_name Catan)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name Catan)
+   (modules
+    ((name Board) (obj_name catan__Board) (visibility public) (impl) (intf))
+    ((name Game) (obj_name catan__Game) (visibility public) (impl) (intf))
+    ((name Input) (obj_name catan__Input) (visibility public) (impl) (intf))
+    ((name Player) (obj_name catan__Player) (visibility public) (impl) (intf))
+    ((name Printers) (obj_name catan__Printers) (visibility public) (impl)))
+   (alias_module
+    (name Catan)
+    (obj_name catan)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))

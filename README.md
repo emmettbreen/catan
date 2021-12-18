@@ -1,11 +1,14 @@
 # `Catan` 
-A terminal-based version of Catan, written in OCaml for the CS 3110 Final Project at Cornell University. 
+A terminal-based version of Catan written in OCaml for my CS 3110 final project.
+
+My contributions include:
+- board.ml (minus printing)
+- input.ml
+
+
 
 ## Authors
 - Emmett Breen
+- Evan Williams
 - Jack Li
 - Zach Ross
-- Evan Williams
-
-## Current Phase
-In development. 

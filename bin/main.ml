@@ -129,7 +129,7 @@ let init () =
     print_endline ("Name of player " ^ string_of_int counter ^ " : ");
     let pl_name = read_line () in
     Array.set players (counter - 1)
-      (init_demo_player pl_name ANSITerminal.yellow);
+      (init_player pl_name ANSITerminal.yellow);
     if counter = num_pl then () else collect_pl_info (counter + 1)
   in
   collect_pl_info 1;

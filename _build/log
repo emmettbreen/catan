@@ -1,10 +1,10 @@
-# dune exec test/test.exe
+# dune exec bin/main.exe
 # OCAMLPARAM: unset
 # Workspace root: /Users/Emmett/Desktop/catan
-$ /usr/bin/getconf _NPROCESSORS_ONLN > /var/folders/_7/__jd8chj2pd5q484vf20mhbw0000gn/T/dunea0f68e.output 2> /dev/null
+$ /usr/bin/getconf _NPROCESSORS_ONLN > /var/folders/_7/__jd8chj2pd5q484vf20mhbw0000gn/T/duneaf5be9.output 2> /dev/null
 # Auto-detected concurrency: 4
 # disable binary cache
-$ /Users/Emmett/.opam/cs3110-2021fa/bin/ocamlc.opt -config > /var/folders/_7/__jd8chj2pd5q484vf20mhbw0000gn/T/duned83ca6.output
+$ /Users/Emmett/.opam/cs3110-2021fa/bin/ocamlc.opt -config > /var/folders/_7/__jd8chj2pd5q484vf20mhbw0000gn/T/dune75241c.output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"

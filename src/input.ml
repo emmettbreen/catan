@@ -69,7 +69,7 @@ let rec move_robber board =
   print_endline
     "You have rolled a 7! Choose a new location for the robber.";
   Printers.yellow_print
-    "Note: the board now tmeporarily shows locations.\n";
+    "Note: the board now temporarily shows locations.\n";
   print_endline
     "The new location must be an integer in the range [0, 18].\n\
     \    Enter input: ";
@@ -216,6 +216,7 @@ let trade player board game =
 (*turns************************************************************************)
 
 let rec turn player board game flag =
+  print_endline "";
   (*phase 1 of turn, roll & resource allocation, robber if 7 rolled*)
   if flag then (
     Printers.cyan_print_endline

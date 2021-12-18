@@ -56,7 +56,7 @@ let get_player_color_text pl =
 let to_string pl =
   "Player:\n" ^ "\tid: " ^ pl.id ^ "\n\tcolor: "
   ^ get_player_color_text pl
-  ^ "\n\tresources:" ^ "\n\t\tBrick: "
+  ^ "\n\tResources:" ^ "\n\t\tBrick: "
   ^ string_of_int pl.resources.brick
   ^ "\n\t\tLumber: "
   ^ string_of_int pl.resources.lumber

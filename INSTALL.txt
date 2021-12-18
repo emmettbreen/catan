@@ -1,0 +1,13 @@
+Instructions for Catan:
+
+Welcome to Catan! These are the instructions to run our demonstration. Please do the following:
+- Download all of the source code from CMS and put all of the files in your directory 
+- Install these packages by running "opam install ANSITerminal"
+- Run "make build" from your command-line (this step is critical!) 
+- Run "make test" to ensure that the test suite is passing on your operating system 
+- Run "make play" to play the game!
+
+EDITED INSTRUCTIONS:
+
+This is our demo for MS2: Beta sprint. Stay tuned for MS3: Release, in which our team 
+will provide an entire game for you to play. Have fun!

@@ -1,0 +1,5 @@
+(library
+ (name catan)
+ (public_name Catan)
+ (libraries ANSITerminal)
+ (modules_without_implementation output))

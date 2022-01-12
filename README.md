@@ -21,7 +21,11 @@ My contributions include:
   - running the first two special turns (free settlement and road for each player)
   - beginning the recursive turn function and starting the actual game
 
-
+## How to run 
+- install homebrew
+- install gpatch and opam on homebrew
+- install dune and ANSITerminal on opam
+- use command "make play" to run and "make test" for test cases
 
 ## Authors
 - Emmett Breen

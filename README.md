@@ -25,7 +25,7 @@ My contributions include:
 - install homebrew
 - install gpatch and opam on homebrew
 - install dune and ANSITerminal on opam
-- use command "make play" to run and "make test" for test cases
+- use command "make play" to run and "make test" to test
 
 ## Authors
 - Emmett Breen
